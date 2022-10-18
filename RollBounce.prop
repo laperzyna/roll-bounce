@@ -1,0 +1,10 @@
+gravity=10
+friction=2
+list=arraylist
+minspeed=5
+maxspeed=35
+timerDelay=75
+balls=7
+window_height = 480
+window_width = 640
+ball_radius = 20

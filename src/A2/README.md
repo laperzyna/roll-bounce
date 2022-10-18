@@ -1,0 +1,4 @@
+Hi Clay!!
+
+I do want to just start by saying I had so much more fun doing this project over Nonogram, so thank you to whoever for assigning something colorful, haha.
+I'm using this ReadMe file just to explain that my code isn't 100% right. My balls bounce perfectly fine, the only thing is instead of eventually settling they increase in speed and bounce forever and I'm not sure why. I asked on campuswire but was still confused as the prof mentioned it might have something to do with the x and y corrinates but I really don't understand. I really messed with this code for a long time trying to figure it out, switching and adding a bunch of code but couldn't get rid of this bug. I'm hoping to see the solution because I think once I fix that bug my code will work the way it's supposed to. Besides that, this was a big step up for me from the last project and I'm happy with it either way. 
